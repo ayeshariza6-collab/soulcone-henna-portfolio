@@ -42,5 +42,5 @@ BCA Student
 
 ## 🔗 Links
 
-- Live Website: https://soulcone-henna.lovable.app
+- Live Website: https://github.com/ayeshariza6-collab/soulcone-henna-portfolio.git
 - GitHub: https://github.com/ayeshariza6-collab
